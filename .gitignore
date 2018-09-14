@@ -1,3 +1,6 @@
+###> symfony/Custom ignore ###
+\.idea/
+###< symfony/Custom ignore ###
 
 ###> symfony/framework-bundle ###
 /.env
@@ -6,4 +9,3 @@
 /vendor/
 ###< symfony/framework-bundle ###
 
-\.idea/
